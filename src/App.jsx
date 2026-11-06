@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="bg-[#f5f5f5] font-light text-[#111]">
       <Notes />
-      <Info name="Mary Grace Maquiling" />
+      <Info name = "Mary Grace Maquiling" />
     </div>
   )
 }
